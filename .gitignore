@@ -1,0 +1,5 @@
+.sites-runtime/
+*.tar.gz
+*.zip
+.DS_Store
+Thumbs.db
